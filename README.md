@@ -1,15 +1,13 @@
 ﻿# RewardDrawSimulator
 
-Welcome to my React project! This project is a simple React application that showcases various features and functionalities of React.
-
 ## Table of Contents
 
-- [Installation](#installation)
-- [Usage](#usage)
-- [Features](#features)
-- [Contributing](#contributing)
-- [License](#license)
-- [Contact](#contact)
+- [ส่วนแนะนำ Application]
+  เป็น Application สำหรับการจำลองการจับรางวัลอย่างง่าย
+- [จัดทำโดย]
+  วิชญ์พล วงศ์วิเศษ หน่วยงาน IT จากบริษัท CPRAM
+- [ฟีเจอร์และวิธีการใช้งาน]
+  การทำงานของ Application โดยหน้าแรกจะแสดงรางวัลมาให้ผู้ใช้ง่ายเลือก เมื่อทำการเลือกแล้วระบบจะแสดงข้อความว่าใครเป็นคนได้รางวัล โดยรายชื่อคนได้รางวัลสามารถดูหรือเพิ่มชื่อได้ผ่านระบบโดยการกดปุ่ม Add Name
 
 ## Installation
 
